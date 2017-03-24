@@ -1,0 +1,23 @@
+---
+title: "Search Strategy for *Effects of training implicit action tendencies and response inhibition in the eating domain - a meta-analyis*"
+author: "Matthias Aulbach"
+date: "24.03.2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+The following terms were searched on PsycINFO, Medline, and Scopus for the meta-analysis "Effects of training implicit action tendencies and response inhibition in the eating domain - a meta-analysis".
+
+
+go no go OR go nogo OR go no-go OR stop signal OR stop-signal OR response inhibition OR inhibitory control OR cognitive bias modification OR implicit association OR joystick OR approach avoidance OR approach-avoidance OR impulse control OR self-control training
+
+AND
+
+snack OR fruit OR vegetable OR fat OR sugar OR sweet* OR palatable OR chocolate OR consumption OR high-calorie OR unhealthy OR overeating OR intake OR food choice* OR diet OR calorie* OR salt* OR taste test* OR tendenc* 
+
+
+
+PsycINFO, Medline, and Scopus will be searched with the relevant keywords. Titles, keywords, and abstracts of the records will be searched with the terms using the AND modifier. Since there are no publications on these topics before 1990 to our knowledge, the publication date will be limited to 1990 - present. Authors of related reviews will be contacted for excluded articles of their own literature search which will then be scanned according to eligibility criteria. The literature search will be re-run before the final analysis. Only studies published in English, Finnish, Dutch, Spanish or German (accompanied by an English abstract will be considered for inclusion. 
